@@ -1,5 +1,8 @@
 # SSD: Single Shot MultiBox Detector
 
+For details of branch ssd-vs2015, see:
+
+
 [![Build Status](https://travis-ci.org/weiliu89/caffe.svg?branch=ssd)](https://travis-ci.org/weiliu89/caffe)
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
 
